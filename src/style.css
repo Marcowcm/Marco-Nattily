@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Monsieur+La+Doulaise&display=swap');
+.caligraphic{
+    font-family: 'Pinyon Script', cursive;
+}
+
+.white-transparent{
+    background-color:#FFFFFF88;
+    border: 1pt solid white;
+}
